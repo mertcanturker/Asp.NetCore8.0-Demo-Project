@@ -1,0 +1,12 @@
+C:\Users\mertc\Desktop\.NET\Demo_Product\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+C:\Users\mertc\Desktop\.NET\Demo_Product\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\mertc\Desktop\.NET\Demo_Product\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\mertc\Desktop\.NET\Demo_Product\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\mertc\Desktop\.NET\Demo_Product\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertc\Desktop\.NET\Demo_Product\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\mertc\Desktop\.NET\Demo_Product\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+C:\Users\mertc\Desktop\.NET\Demo_Product\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\mertc\Desktop\.NET\Demo_Product\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+C:\Users\mertc\Desktop\.NET\Demo_Product\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+C:\Users\mertc\Desktop\.NET\Demo_Product\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+C:\Users\mertc\Desktop\.NET\Demo_Product\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
