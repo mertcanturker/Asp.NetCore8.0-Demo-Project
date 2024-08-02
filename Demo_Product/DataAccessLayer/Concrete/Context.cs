@@ -13,7 +13,7 @@ namespace DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=HP_PAVILION;database=DbNewOopCore1;integrated security=true;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("server=HP-PAVILION;database=DbNewOopCore1;integrated security=true;TrustServerCertificate=True");
         }
 
         public DbSet<Product> Products { get; set; }
